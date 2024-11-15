@@ -3,7 +3,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 20px 30px;
-  background: linear-gradient(to right, #5fffef, #7be8fe);
+  background: linear-gradient(to right, #fdd8a1, #fbe4c2); 
   color: white;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
@@ -41,7 +41,7 @@
 }
 
 .navbar-links a:hover {
-  background-color: #0056b3;
+  background-color: #b37a00;
   transform: scale(1.05);
 }
 

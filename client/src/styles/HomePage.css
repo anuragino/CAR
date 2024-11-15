@@ -1,11 +1,11 @@
 .homepage-container {
   height: 100vh; /* Full viewport height */
   padding: 20px;
-  background: linear-gradient(to right, #a1fdb9, #c2fbc6) /* Lighter blue gradient background */
+  background: linear-gradient(to right, #fdd8a1, #fbe4c2);  /* Lighter blue gradient background */
 }
 
 .row {
-  background: #bdf2f7; /* White background for content */
+  background: #ffffff; /* White background for content */
   padding: 40px;
   border-radius: 15px;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);

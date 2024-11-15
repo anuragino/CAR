@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
   line-height: 1.6;
-  background: linear-gradient(to right, #a1fdb9, #c2fbc6);
+  background: linear-gradient(to right, #fdd8a1, #fbe4c2); 
   color: #333;
   background-size: cover;
   background-attachment: fixed;
@@ -37,7 +37,7 @@ a:hover {
 button {
   cursor: pointer;
   border: none;
-  background-color: #1dd87a;
+  background-color: #d89a1d;
   color: white;
   padding: 12px 20px;
   border-radius: 30px;

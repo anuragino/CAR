@@ -2,12 +2,12 @@
   height: 95vh;
   padding: 20px;
   margin-top: 80px; 
-  background: linear-gradient(to right, #a1fdb9, #c2fbc6); 
+  background: linear-gradient(to right, #fdd8a1, #fbe4c2); 
 }
 
 .login-box {
-  max-width: 400px;
+  max-width: 300px;
   padding: 40px;
-  border-radius: 10px;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  box-shadow: 0 4px 15px rgba(42, 41, 40, 0.1);
 }
