@@ -34,8 +34,8 @@ Car Manager is a sleek web app powered by MongoDB, React, and Express for effici
 
 ## 🚦 Running the Project
 
-1. **Clone the Repository:** `git clone https://github.com/anuragino/Car-Manager`
-2. **Navigate to the Project Directory:** `cd Car-Manager/client` and `cd Car-Manager/Server`
+1. **Clone the Repository:** `git clone https://github.com/anuragino/CAR`
+2. **Navigate to the Project Directory:** `cd CAR/client` and `cd CAR/Server`
 3. **Install Dependencies:** `npm install` in both Directory.
 4. Run in Server `npm server.js` to start the server.
 5. Run in Client `npm run dev` to get the project started.
