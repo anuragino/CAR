@@ -11,7 +11,7 @@ const HomePage = () => {
     <div className="homepage-container d-flex justify-content-center align-items-center">
       <div className="row justify-content-center text-center">
         <div className="col-md-10 col-lg-8">
-          <h1 className="display-4 text-dark">Welcome to the Car Management Application</h1>
+          <h1 className="display-4 text-dark b">Welcome to the Car Manager</h1>
           <p className="lead text-dark">Manage your cars effortlessly!</p>
 
           <div className="d-flex flex-column flex-md-row justify-content-center gap-3 mt-4">

@@ -2,7 +2,7 @@
   height: 95vh; /* Full viewport height */
   padding: 20px;
   margin-top: 80px; /* Added margin to prevent overlap with the navbar */
-  background: linear-gradient(to right, #a1c4fd, #c2e9fb); /* Light blue gradient background */
+  background: linear-gradient(to right, #a1fdb9, #c2fbc6); /* Light blue gradient background */
 }
 
 .product-list-box {
