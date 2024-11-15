@@ -18,7 +18,7 @@ const ProductListPage = () => {
 
     try {
       const response = await fetch(
-        `https://car-management-application-backend.onrender.com/api/cars?search=${query}`,
+        `https://car-self.vercel.app/api/cars?search=${query}`,
         {
           headers: {
             Authorization: `Bearer ${localStorage.getItem("token")}`, // Assuming token is stored in localStorage

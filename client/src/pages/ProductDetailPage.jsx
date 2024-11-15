@@ -14,7 +14,7 @@ const ProductDetailPage = () => {
   useEffect(() => {
     const fetchProductDetails = async () => {
       try {
-        const response = await fetch(`https://car-management-application-backend.onrender.com/api/cars/${id}`, {
+        const response = await fetch(`https://car-self.vercel.app/api/cars/${id}`, {
           headers: {
             Authorization: `Bearer ${localStorage.getItem("token")}`, // Assuming token is in localStorage
           },

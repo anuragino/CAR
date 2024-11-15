@@ -9,7 +9,7 @@ const app = express();
 
 const allowedOrigins = [
   "http://localhost:3000", 
-  "https://car-management-application-frontend.onrender.com", 
+  "https://car-self.vercel.app/", 
 ];
 
 app.use(cors({

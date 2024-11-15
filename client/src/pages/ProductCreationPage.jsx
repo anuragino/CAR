@@ -31,7 +31,7 @@ const ProductCreationPage = () => {
 
     try {
       const response = await fetch(
-        "https://car-management-application-backend.onrender.com/api/cars",
+        "https://car-self.vercel.app/api/cars",
         {
           method: "POST",
           headers: {
